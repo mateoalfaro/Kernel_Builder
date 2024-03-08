@@ -1,11 +1,11 @@
 [
   {
     "kernelSource": {
-      "name": "lineage",
-      "repo": "https://github.com/samsung-sm6150-devs/android_kernel_samsung_sm6150.git",
-      "branch": "lineage-21",
-      "device": "a71",
-      "defconfig": "a71_defconfig"
+      "name": "astralprjkt",
+      "repo": "https://github.com/elizabethangelalorenza/kernel_xiaomi_vayu.git",
+      "branch": "main",
+      "device": "vayu",
+      "defconfig": "vayu_defconfig"
     },
     "toolchains": [
       {
