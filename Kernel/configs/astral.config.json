@@ -3,7 +3,7 @@
     "kernelSource": {
       "name": "Astral-prjkt",
       "repo": "https://github.com/mateoalfaro/kernel_xiaomi_vayu.git",
-      "branch": "openela-upstream-431",
+      "branch": "openela-upstream-341",
       "device": "vayu",
       "defconfig": "vayu_defconfig"
     },
